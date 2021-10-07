@@ -5,5 +5,7 @@ console.log('Hello Sawa')
 another
 const util = require('./util')
 
-newbr
-2 commit
+newbr;
+2 + commit
+
+new stuff()
