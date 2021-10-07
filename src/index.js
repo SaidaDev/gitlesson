@@ -2,7 +2,7 @@ console.log('Hello World')
 
 console.log('Hello Sawa')
 
-another
+const another = 10
 const util = require('./util')
 
 newbr;
